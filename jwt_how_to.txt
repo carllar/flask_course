@@ -1,0 +1,2 @@
+Use Authorization in headers with jwt *access_token*
+https://stackoverflow.com/questions/50158969/jwt-dont-accept-authorization-with-bearer
